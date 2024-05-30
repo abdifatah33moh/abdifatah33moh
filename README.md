@@ -9,6 +9,7 @@ Skills: PYTHON/ JS / HTML / CSS / SQL
 
 - 🔭 I’m currently working on CompTIA A+ certificate. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdifatah33moh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
