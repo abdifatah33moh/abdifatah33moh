@@ -7,7 +7,7 @@ I'm Abdifatah from Somalia, and I a big fan of technology. I started learning IT
 
 Skills: PYTHON/ JS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on CompTIA A+ certificate. 
 
 
 
