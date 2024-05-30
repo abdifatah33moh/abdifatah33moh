@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Abdifatah from Somalia, and I a big fan of technology. I started learning IT last year, and I now working on my CompTIA A+ certificate. I found my passion in networks and cybersecurity, and also working in a large data centers. I also learned some programming languages like Javascript and python, and also how to create web pages using html and css, and I learned the language behind the creation of relational databases, SQL.
+I hope one day I can achieve my goals and be very professional in networks and cybersecurity.
+You can check out my twitter at twitter.com/abdifatah33moh.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdifatah33moh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **abdifatah33moh/abdifatah33moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
