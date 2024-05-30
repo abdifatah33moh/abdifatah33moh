@@ -1,9 +1,18 @@
-## Hi there 👋
-I'm Abdifatah from Somalia, and I a big fan of technology. I started learning IT last year, and I now working on my CompTIA A+ certificate. I found my passion in learning networks and cybersecurity, and also learning how to work in a large data centers. I also learned some programming languages like Javascript and python, and also how to create web pages using html and css, and I learned the language behind the creation of relational databases, SQL.
-I hope one day I can achieve my goals and be very professional in networks and cybersecurity.
-You can check out my twitter at twitter.com/abdifatah33moh.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdifatah33moh)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, I am Abdifatah Mohamed
+#### Learning IT
+![Learning IT](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Abdifatah from Somalia, and I a big fan of technology. I started learning IT last year, and I now working on my CompTIA A+ certificate. I found my passion in learning networks and cybersecurity, and also learning how to work in a large data centers. I also learned some programming languages like Javascript and python, and also how to create web pages using html and css, and I learned the language behind the creation of relational databases, SQL. I hope one day I can achieve my goals and be very professional in networks and cybersecurity. You can check out my twitter at twitter.com/abdifatah33moh.
+
+Skills: PYTHON/ JS / HTML / CSS / SQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 <!--
 **abdifatah33moh/abdifatah33moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
